@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/screenshots/inicio-hero.png" alt="ToolKar — portada" width="100%">
+
 
 # ToolKar
 
