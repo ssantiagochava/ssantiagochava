@@ -1,191 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:1a1a1a,50:D4AF37,100:1a1a1a&height=220&section=header&text=TOOLKAR&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Excelencia%20sobre%20ruedas&descAlignY=58&descSize=22&descColor=D4AF37" width="100%"/>
+<img src="docs/screenshots/inicio-hero.png" alt="ToolKar — portada" width="100%">
 
-<br/>
+# ToolKar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=26&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Autos+de+lujo.+Servicio+de+lujo.;Cada+detalle%2C+dise%C3%B1ado+para+impresionar.;Bienvenido+a+la+experiencia+Toolkar.)](https://git.io/typing-svg)
+**Sitio web cinemático para un taller de mecánica de alta gama**
 
-<br/>
+Landing con animaciones de scroll · Catálogo de servicios · Formulario de solicitud · Tablero kanban
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Status](https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-D4AF37?style=for-the-badge)
-![Made with](https://img.shields.io/badge/HECHO%20CON-%E2%9D%A4-black?style=for-the-badge)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+[![GSAP](https://img.shields.io/badge/GSAP-3.12-88CE02?style=flat-square&logo=greensock&logoColor=white)](https://gsap.com)
+[![Lenis](https://img.shields.io/badge/Lenis-1.3-000000?style=flat-square)](https://lenis.darkroom.engineering)
+[![Sin build](https://img.shields.io/badge/build-ninguno-2ea44f?style=flat-square)](#-cómo-ejecutarlo)
+[![Pruebas](https://img.shields.io/badge/pruebas-12%20p%C3%A1ginas%20%C2%B7%200%20fallos-2ea44f?style=flat-square)](#-pruebas)
+[![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue?style=flat-square)](LICENSE)
 
-![Visitas](https://komarev.com/ghpvc/?username=ssantiagochava&label=VISITAS&color=D4AF37&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/ssantiagochava/Toolkar?style=for-the-badge&color=D4AF37)
-![Repo Size](https://img.shields.io/github/repo-size/ssantiagochava/Toolkar?style=for-the-badge&color=1a1a1a)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.com/api?type=rect&color=0:D4AF37,100:1a1a1a&height=3&width=100%" width="100%"/>
-
-## 📖 Tabla de Contenidos
-
-- [✨ Sobre el Proyecto](#-sobre-el-proyecto)
-- [🎬 Demo & Capturas](#-demo--capturas)
-- [🚀 Características](#-características)
-- [🛠️ Stack Tecnológico](#️-stack-tecnológico)
-- [⚙️ Instalación](#️-instalación)
-- [📁 Estructura del Proyecto](#-estructura-del-proyecto)
-- [🗺️ Roadmap](#️-roadmap)
-- [📬 Contacto](#-contacto)
-- [📄 Licencia](#-licencia)
-
-<img src="https://capsule-render.com/api?type=rect&color=0:D4AF37,100:1a1a1a&height=3&width=100%" width="100%"/>
-
-## ✨ Sobre el Proyecto
-
-<img align="right" width="140" src="https://skillicons.dev/icons?i=nodejs,html,css" />
-
-**Toolkar** es un sitio web para un concesionario de **carros de lujo**, pensado para transmitir exclusividad desde el primer segundo: tipografía elegante, paleta de colores premium (negro + dorado) y animaciones fluidas que dan la sensación de un servicio de alta gama.
-
-> "No vendemos autos. Vendemos una experiencia."
-
-El objetivo del proyecto es que cada visitante sienta que está entrando a una sala de exhibición de lujo, incluso desde el navegador.
-
-<br clear="right"/>
-
-## 🎬 Demo & Capturas
-
-> 📸 **Nota:** las imágenes de abajo son fotos de ambientación **libres de derechos (licencia Pexels)** — se usan solo para dar una idea del estilo visual mientras no tengas capturas reales. En cuanto tengas tu sitio corriendo, reemplázalas por tus propias capturas o un GIF de navegación guardándolas en una carpeta `assets/` del repo.
-
-<div align="center">
-
-| Vista Principal | Detalle / Catálogo | Ambientación |
-|:---:|:---:|:---:|
-| ![Hero](https://images.pexels.com/photos/4141962/pexels-photo-4141962.jpeg?auto=compress&cs=tinysrgb&w=500&h=350&fit=crop) | ![Catálogo](https://images.pexels.com/photos/32897253/pexels-photo-32897253.jpeg?auto=compress&cs=tinysrgb&w=500&h=350&fit=crop) | ![Ambientación](https://images.pexels.com/photos/26954166/pexels-photo-26954166.jpeg?auto=compress&cs=tinysrgb&w=500&h=350&fit=crop) |
-
-<sub>Fotos: <a href="https://www.pexels.com/license/">Pexels License</a> — libres para uso comercial, sin atribución requerida.</sub>
-
-<br/>
-
-<!-- 🎥 Cuando tengas un GIF de la navegación real de tu sitio, descomenta la línea de abajo -->
-<!-- ![Demo GIF](assets/demo.gif) -->
+[Demo](#-vista-previa) · [Características](#-características) · [Ejecutar](#-cómo-ejecutarlo) · [Arquitectura](#-arquitectura) · [Pruebas](#-pruebas) · [Decisiones](#-decisiones-de-diseño)
 
 </div>
 
-<details>
-<summary>💡 <b>¿Cómo reemplazar estas fotos por tus capturas reales?</b> (click para expandir)</summary>
-<br/>
+---
 
-1. Toma tus propias capturas de pantalla del sitio (o graba un GIF con **ScreenToGif** en Windows, **Kap** en Mac, o **Peek** en Linux).
-2. Guárdalas dentro de una carpeta `assets/` en la raíz del repo.
-3. Reemplaza las URLs de Pexels en la tabla de arriba por las rutas locales, ej: `assets/screenshot-hero.png`.
+## 📌 Sobre el proyecto
 
-</details>
+**ToolKar** es un taller especializado en Porsche, Maserati, Audi, Mercedes-Benz, Land Rover, Jaguar y Lexus. Este repositorio contiene su sitio web completo: una **landing cinemática** donde las imágenes se expanden suavemente al hacer scroll, un **catálogo filtrable** de 15 servicios con secciones por marca, un **formulario de solicitud** con validación en vivo y un **tablero kanban** para que el equipo gestione las citas.
 
-<img src="https://capsule-render.com/api?type=rect&color=0:D4AF37,100:1a1a1a&height=3&width=100%" width="100%"/>
+Todo está hecho con **HTML, CSS y JavaScript planos — sin frameworks ni build**: el sitio se abre con doble clic en `index.html`. Las animaciones usan GSAP + ScrollTrigger y Lenis; las imágenes se generaron con IA (Higgsfield) bajo una misma dirección de arte ("showroom nocturno").
 
-## 🚀 Características
+Proyecto desarrollado para el curso **Ingeniería de Software II** (Universidad Latina de Costa Rica).
 
-- 🎨 **Diseño de lujo** — paleta negro/dorado y tipografía premium cuidada al detalle
-- ✨ **Animaciones fluidas** — transiciones y efectos suaves en cada sección
-- 🚗 **Presentación de vehículos** — enfocada en resaltar cada modelo como una pieza exclusiva
-- 📱 **Totalmente responsive** — misma experiencia de lujo en móvil, tablet y escritorio
-- ⚡ **Ligero y rápido** — construido con HTML/CSS puro para máximo rendimiento
+## ✨ Características
 
-<img src="https://capsule-render.com/api?type=rect&color=0:D4AF37,100:1a1a1a&height=3&width=100%" width="100%"/>
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,html,css,js&theme=dark" />
-
-| Tecnología | Uso |
+| | |
 |---|---|
-| **Node.js** | Servidor y lógica del backend |
-| **HTML5** | Estructura semántica del sitio |
-| **CSS3** | Estilos, animaciones y diseño responsive |
+| 🎬 **Hero expandible** | La imagen del taller empieza enmarcada y crece hasta llenar la pantalla mientras el título se disuelve (`ScrollTrigger` con pin y `clip-path`). |
+| 🏎️ **Siete marcas, siete escenas** | Cada marca tiene su propia sección con imagen que se expande al llegar al centro del viewport. |
+| 🧭 **Scroll suave** | Lenis sincronizado con el reloj de GSAP; el header se esconde al bajar y reaparece al subir. |
+| 🔎 **Catálogo filtrable** | 15 servicios en 5 categorías; los filtros animan la salida y entrada de tarjetas y no pierden clics rápidos. |
+| 📝 **Formulario inteligente** | Se preselecciona desde la URL (`?servicio=`, `?marca=`), resumen en vivo, validación por campo con `aria-invalid`, confirmación animada. |
+| 📋 **Tablero kanban** | Cuatro estados, arrastrar y soltar o `<select>`, las tarjetas *vuelan* entre columnas con GSAP Flip, datos de ejemplo con un clic, pestañas en móvil. |
+| 💾 **Sin backend** | Las solicitudes persisten en `localStorage` con una forma estable que comparten formulario y tablero. |
+| ♿ **Accesible** | Respeta `prefers-reduced-motion` (sin pin ni scroll suave, todo visible), foco visible, patrón ARIA en pestañas y diálogo, contraste AA. |
+| 🛡️ **Robusto** | Respaldo local de las librerías si el CDN falla, escape de HTML en todo lo que viene del usuario, 78 aserciones de prueba en navegador. |
 
+## 🖼️ Vista previa
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/screenshots/listado.png" alt="Catálogo de servicios"><br><sub><b>Servicios</b> — hero con parallax y filtros sticky</sub></td>
+    <td width="50%"><img src="docs/screenshots/formulario.png" alt="Formulario de solicitud"><br><sub><b>Solicitud</b> — columna fija con resumen en vivo</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/screenshots/dashboard.png" alt="Tablero kanban"><br><sub><b>Tablero</b> — kanban con Flip y datos de ejemplo</sub></td>
+    <td width="50%"><img src="docs/screenshots/marca-jaguar.jpg" alt="Sección de marca Jaguar"><br><sub><b>Marcas</b> — una de las 12 imágenes generadas con IA</sub></td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="docs/screenshots/inicio-movil.png" alt="Inicio en móvil" width="260">
+  <br><sub><b>Móvil</b> — header de dos filas y hero adaptado</sub>
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:D4AF37,100:1a1a1a&height=3&width=100%" width="100%"/>
+## 🚀 Cómo ejecutarlo
 
-## ⚙️ Instalación
+No hay nada que instalar.
 
 ```bash
-# 1. Clona el repositorio
-git clone https://github.com/ssantiagochava/Toolkar.git
-
-# 2. Entra a la carpeta del proyecto
-cd Toolkar
-
-# 3. Instala las dependencias
-npm install
-
-# 4. Inicia el servidor
-npm start
+git clone https://github.com/TU-USUARIO/toolkar.git
+cd toolkar
 ```
 
-Luego abre tu navegador en:
+Abre `index.html` con doble clic (o con la extensión **Live Server** de VS Code). Para ver el tablero con datos, entra a `dashboard.html` y pulsa **Cargar ejemplos**.
+
+> Las solicitudes se guardan en el `localStorage` del navegador: persisten al recargar y se borran con **Vaciar panel** o al limpiar los datos del sitio.
+
+## 🧱 Arquitectura
 
 ```
-http://localhost:3000
+index.html · listado.html · formulario.html · dashboard.html   ← las 4 páginas (en la raíz, para abrir con doble clic)
+src/
+├── css/
+│   ├── tokens.css        variables: colores, tipografía, medidas        ← "¿qué color / fuente?"
+│   ├── base.css          reset, tipografía global, layout, reduced-motion
+│   ├── components.css    header, botones, tarjetas, campos, footer, modal
+│   ├── motion.css        marcado de los efectos de scroll (.expand, .parallax, .zoom)
+│   └── pages/            estilos exclusivos de cada página
+└── js/
+    ├── lib/core.js       motor: TK.reduced / TK.mobile, Lenis + GSAP, header, TK.ready(), TK.scrollTo()
+    ├── lib/fx.js         efectos reutilizables: TK.fx.expandOnScroll, parallax, revealText, staggerIn, counter, marquee…
+    ├── lib/data.js       datos del negocio (servicios, marcas) y acceso a localStorage: TK.data.*
+    ├── pages/            lógica de cada página (pinta el contenido desde data.js y enciende los efectos)
+    └── vendor/           copias locales de GSAP, ScrollTrigger, Flip y Lenis (respaldo si el CDN falla)
+assets/img/               12 imágenes del rediseño (≤ 350 KB cada una)
+tests/                    12 páginas de prueba + harness (ver abajo)
+docs/decisiones.md        bitácora de decisiones · docs/superpowers/ especificación y plan
 ```
 
-> ⚠️ Si tu punto de entrada no es `npm start`, reemplázalo por el comando real (por ejemplo `node server.js` o `node index.js`).
+**Cómo fluye una solicitud:** `listado.html` → *Solicitar* → `formulario.html?servicio=…` (preselecciona) → enviar → `TK.data.agregarSolicitud()` guarda en `localStorage` con estado `pendiente` → `dashboard.html` la muestra; mover de columna actualiza el estado y persiste.
 
-<img src="https://capsule-render.com/api?type=rect&color=0:D4AF37,100:1a1a1a&height=3&width=100%" width="100%"/>
+**Orden de carga** (importa): `tokens → base → components → motion → CSS de página`, y al final del `<body>`: `GSAP → ScrollTrigger → (Flip) → Lenis → core.js → fx.js → data.js → script de página`. Cada archivo de `src/` empieza con una cabecera *Qué hace · Depende de · Lo usan · Ojo con*.
 
-## 📁 Estructura del Proyecto
+### Stack
 
+| Capa | Tecnología | Por qué |
+|---|---|---|
+| Estructura | HTML5 semántico | Abre desde `file://`; sin build, fácil de evaluar y desplegar |
+| Estilo | CSS3 (custom properties, `clamp()`, `clip-path`) | Tipografía fluida y efectos sin JS extra |
+| Animación | [GSAP 3.12](https://gsap.com) + ScrollTrigger + Flip | Control fino del scroll, pin y transiciones de estado |
+| Scroll | [Lenis 1.3](https://lenis.darkroom.engineering) | Scroll suave sincronizado con el ticker de GSAP |
+| Tipografía | Cormorant Garamond + Manrope (Google Fonts) | Contraste serif elegante / sans limpia |
+| Imágenes | Higgsfield (`z_image`) + retoque | Set coherente de 12 escenas nocturnas |
+
+## 🧪 Pruebas
+
+Las pruebas corren **en el navegador** con un harness propio de 30 líneas (`tests/harness.js`): cada `tests/*.test.html` carga la página real en un `<iframe>`, dispara eventos reales (clics, `submit`, `DragEvent`) y comprueba el DOM y `localStorage`. Hace falta un servidor local porque `fetch` no funciona sobre `file://`:
+
+```bash
+npx --yes serve -l 5501 .
 ```
-Toolkar/
-├── assets/              # Imágenes, íconos y capturas
-├── public/              # Archivos estáticos (CSS, JS, imágenes)
-│   ├── css/
-│   └── js/
-├── views/               # Páginas HTML
-├── server.js            # Punto de entrada del servidor Node.js
-├── package.json
-└── README.md
-```
 
-> 📝 Ajusta este árbol para que coincida con la estructura real de tu proyecto.
+Abre `http://localhost:5501/tests/run-all.html` y entra a cada prueba: cada página termina con `TESTS: N passed, 0 failed` en la consola.
 
-<img src="https://capsule-render.com/api?type=rect&color=0:D4AF37,100:1a1a1a&height=3&width=100%" width="100%"/>
+| Página de prueba | Qué cubre |
+|---|---|
+| `data` | catálogo, formato de precio y fecha, `localStorage` corrupto, ejemplos |
+| `core` · `fx` | header inteligente, `scrollTo`, los 7 efectos y la división de líneas |
+| `home` · `listado` · `formulario` · `dashboard` | cada página: estructura, enlaces, filtros, preselección, envío, kanban, escape de HTML |
+| `images` · `links` · `cleanup` · `design-system` | peso de imágenes, cero enlaces muertos, tokens del sistema visual |
+
+## 🧠 Decisiones de diseño
+
+- **Estética "showroom nocturno"** — carbón `#0B0B0C`, hueso `#EDE9E3`, champán `#C9A96E`: coherente con las marcas y con fotos oscuras de luz puntual.
+- **Arquitectura híbrida de scroll** — la expansión de imágenes se reserva para momentos clave (hero, marcas); el resto usa parallax y reveals, para que la página no se vuelva interminable en móvil.
+- **Sin build a propósito** — scripts clásicos (no módulos ES, que fallan sobre `file://`) y respaldo de CDN con `document.write`, que mantiene el orden de carga.
+- **Los títulos esperan a las fuentes** — `revealText` divide el texto en líneas solo después de `document.fonts.ready`; con la fuente de respaldo los cortes salían distintos.
+- **El tablero no usa Lenis** — el scroll suave interfiere con arrastrar tarjetas.
+
+La bitácora completa está en [`docs/decisiones.md`](docs/decisiones.md); la especificación y el plan de implementación en [`docs/superpowers/`](docs/superpowers/).
 
 ## 🗺️ Roadmap
 
-- [x] Diseño base con identidad de marca de lujo
-- [x] Animaciones de interfaz
-- [ ] Catálogo dinámico de vehículos
-- [ ] Formulario de contacto / agendamiento de citas
-- [ ] Panel de administración
-- [ ] Modo oscuro / claro
+- [ ] Backend real (API + base de datos) en lugar de `localStorage`
+- [ ] Notificaciones por correo al cliente al confirmar la cita
+- [ ] Panel de autenticación para el tablero
+- [ ] Internacionalización (inglés)
 
-<img src="https://capsule-render.com/api?type=rect&color=0:D4AF37,100:1a1a1a&height=3&width=100%" width="100%"/>
+## 👤 Autor
 
-## 📬 Contacto
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ssantiagochava-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssantiagochava)
-
-**¿Tienes preguntas o propuestas de colaboración?** Abre un [issue](https://github.com/ssantiagochava/Toolkar/issues) en este repositorio.
-
-</div>
-
-<img src="https://capsule-render.com/api?type=rect&color=0:D4AF37,100:1a1a1a&height=3&width=100%" width="100%"/>
+**Santiago Chavarría** — Ingeniería de Software II, Universidad Latina de Costa Rica
 
 ## 📄 Licencia
 
-Este proyecto **no cuenta actualmente con una licencia definida** — todos los derechos reservados por el autor.
+Distribuido bajo la licencia **MIT**. Consulta [`LICENSE`](LICENSE) para más información.
 
-> 💡 Si en algún momento quieres que otros puedan usar o contribuir libremente al código, puedes agregar una licencia como [MIT](https://choosealicense.com/licenses/mit/) directamente desde GitHub (*Add file → Create new file → LICENSE*).
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.com/api?type=waving&color=0:1a1a1a,50:D4AF37,100:1a1a1a&height=150&section=footer"/>
-
-**Hecho con 🖤 y mucho dorado por [ssantiagochava](https://github.com/ssantiagochava)**
-
-</div>
+Las marcas mencionadas (Porsche, Maserati, Audi, Mercedes-Benz, Land Rover, Jaguar, Lexus) pertenecen a sus respectivos dueños y se usan únicamente con fines ilustrativos en un proyecto académico.
