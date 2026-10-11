@@ -9,7 +9,6 @@
 ## 🚀 Sobre mí
 
 - 🎓 Estudiando Ingeniería en Sistemas / Ingeniería de Software
-- 🔭 Actualmente trabajando en **Techno-Tienda**, una tienda en línea de tecnología
 - 🌱 Aprendiendo desarrollo web full stack y buenas prácticas con Git y GitHub
 - 🤝 Abierto a colaborar en proyectos de equipo y proyectos open source
 - 📫 Contáctame: [ssantiagochava@gmail.com](mailto:ssantiagochava@gmail.com)
